@@ -107,3 +107,5 @@ def fahrenheit_to_celsius(farenheit)
   convert = (farenheit-32)*5.0/9.0
   return convert.to_i
 end
+
+# heres a change
